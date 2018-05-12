@@ -1,0 +1,34 @@
+_repo: Popular-Rhymes-and-Nursery-TalesA-Sequel-to-the-Nursery-Rhymes-of-England_35707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halliwell-Phillipps, J. O. (James Orchard)
+    aliases:
+    - Halliwell-Phillipps, James Orchard
+    - Halliwell, James Orchard
+    - Halliwell, J. O. (James Orchard)
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '8746'
+    url: http://www.gutenberg.org/2009/agents/8746
+    wikipedia: http://en.wikipedia.org/wiki/James_Orchard_Halliwell-Phillipps
+description: ''
+gutenberg_issued: '2011-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Nursery rhymes, English'
+title: 'Popular Rhymes and Nursery Tales
+
+  A Sequel to the Nursery Rhymes of England'
+url: http://www.gutenberg.org/ebooks/35707
