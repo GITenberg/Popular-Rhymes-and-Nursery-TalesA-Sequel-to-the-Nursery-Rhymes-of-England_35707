@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8746
     wikipedia: http://en.wikipedia.org/wiki/James_Orchard_Halliwell-Phillipps
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35707#Popular-Rhymes-and-Nursery-TalesA-Sequel-to-the-Nursery-Rhymes-of-England
 gutenberg_issued: '2011-03-30'
 gutenberg_type: Text
 identifiers:
